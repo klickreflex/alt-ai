@@ -1,0 +1,70 @@
+# Secrets
+**/Config.xcconfig
+
+# Xcode
+##
+build/
+DerivedData/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+*.xccheckout
+*.moved-aside
+*.xcuserstate
+*.xcscmblueprint
+*.xcworkspace/xcuserdata/*
+
+# Swift Package Manager
+##
+.build/
+Packages/
+Package.pins
+Package.resolved
+*.xcodeproj
+.swiftpm/
+
+# CocoaPods (if you're using it)
+##
+Pods/
+*.xcworkspace
+
+# Carthage (if you're using it)
+##
+Carthage/Build/
+
+# fastlane
+##
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# Code Injection
+##
+injected_container.swift
+
+# OS generated files
+##
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Crash logs
+##
+*.ips
+
+# App packaging
+##
+*.ipa
+*.dSYM.zip
+*.dSYM
