@@ -1,9 +1,9 @@
 # alt-ai
 
-- Mac app to generate alternative text for images using Open AI API (BYOK).
-- Make sure to check if the generated text makes sense and adjust if not.
+- Mac app to generate alternative text for images using Open AI API (BYOK)
+- Make sure to check if the generated text makes sense and adjust if not
 - Using this app will cause costs to the Open AI account for the configured API key
-- Warning: I have zero expertise in Swift, this code was entirely written with the help of AI. 
+- Warning: I have zero expertise in Swift, this code was entirely written with the help of AI
 
 
 ## Config options
